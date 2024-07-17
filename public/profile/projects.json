@@ -1,0 +1,35 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-page.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support.\n -  HTML CSS",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://portfol-website.netlify.app/"
+                }
+            ]
+            
+        },{
+            "image" : "images/projects/portfolio-page.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support.\n -  HTML CSS",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://portfol-website.netlify.app/"
+                }
+            ]
+            
+        }
+    ]
+}
